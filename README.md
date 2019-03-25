@@ -10,7 +10,7 @@ The Promotions element with Name = "Gallery" has a Description that contains the
 
 Created 12 test just testing the Acceptance criteria provided.
 Technology used:
-C# , Visual studio 2015 using the following reference: Restsharp,Souldly,Nunit etc.
+C# , Visual studio 2015 using the following reference: Restsharp,Shouldly,Nunit etc.
 I just put it in a single project but in reality it should be separated.
 I created a base where every code needed for base and support file is located.
 I separate the test file and only test file are present for clean code.
